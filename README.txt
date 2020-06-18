@@ -2,7 +2,7 @@ This library is an extension to the Armdroid Library.
 Contains a specialized I2C port expander class for interfacing all Armdroid models, 2 pins are required to 
 interface.
 
-Written by Richard Morris.
+Written by Richard K. Morris (rkmorris)
 MIT license, check license.txt for more information.
 All text above must be included in any redistribution.
 
